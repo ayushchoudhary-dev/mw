@@ -337,9 +337,9 @@ layout: page
 I'm a software developer pursuing my Master's in Computer Science at Arizona State University. Throughout my academic journey, I've worked with cutting-edge technologies including AWS, Git, MSSQL, Apache Kafka, MongoDB, and OpenCV. My passion lies in creating innovative solutions and exploring the frontiers of technology.
 </div> -->
 
-<div class="highlight">
+<!-- <div class="highlight">
 I worked on a research paper on classifying defects in glass bangles, published at CVIP 2022 Conference and featured in Springer's CCIS Series. This project combined traditional feature-based approaches with deep learning techniques, showcasing my ability to bridge classical and modern methodologies.
-</div>
+</div> -->
 
 <div class="highlight">
 I've recently embarked on a fitness journey, recognizing that a healthy body and mind pave the way for success. Beyond coding, I'm an enthusiast of food, coffee, and a budding bibliophile. A recent read, "Atomic Habits" by James Clear, has significantly impacted my daily productivity.
