@@ -9,5 +9,5 @@ layout: post
 </div>
 <h3 class="title">
     <a style="background-color: indigo; color: white; padding: 14px 25px; text-align: center;
-        text-decoration: none;" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'" href="/assets/images/Ayush_Choudhary.pdf" download>Download PDF
+        text-decoration: none;" onmouseover="this.style.color='grey'" onmouseout="this.style.color='white'" href="/mw/assets/images/Ayush_Choudhary.pdf" download>Download PDF
     </a></h3>

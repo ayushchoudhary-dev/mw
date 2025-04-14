@@ -328,7 +328,7 @@ layout: page
 # About Me
 
 <div class="hero">
-    <img src="/assets/images/profilefull.jpeg" alt="Profile Picture">
+    <img src="/mw/assets/images/profilefull.jpeg" alt="Profile Picture">
     <h1>I'm Always Up to Learn New Things</h1>
     <p class="highlight">Software Developer | Machine Learning Enthusiast | Graduate Student at ASU</p>
 </div>
@@ -352,7 +352,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
 
 <div class="experience-card">
-    <img class="company-logo" src="/assets/images/ASUlogo.jpg" alt="ASU logo">
+    <img class="company-logo" src="/mw/assets/images/ASUlogo.jpg" alt="ASU logo">
     <div class="experience-content">
         <h3>Arizona State University</h3>
         <p><strong>Graduate Service Assistant </strong></p>
@@ -361,7 +361,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     </div>
 </div>
 <div class="experience-card">
-    <img class="company-logo" src="/assets/images/ASUlogo.jpg" alt="ASU logo">
+    <img class="company-logo" src="/mw/assets/images/ASUlogo.jpg" alt="ASU logo">
     <div class="experience-content">
         <h3>Arizona State University</h3>
         <p><strong>Verifier </strong></p>
@@ -371,7 +371,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 </div>
 
 <div class="experience-card">
-    <img class="company-logo" src="/assets/images/DSFlogo.png" alt="Devine Soul Foundation Logo">
+    <img class="company-logo" src="/mw/assets/images/DSFlogo.png" alt="Devine Soul Foundation Logo">
     <div class="experience-content">
         <h3>Devine Soul Foundation</h3>
         <p><strong>Software Developer</strong></p>
@@ -505,7 +505,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
  <div class="course-card">
         <div class="course-header">
-            <img src="/assets/images/ucsan.png" alt="UC San Diego" class="course-logo">
+            <img src="/mw/assets/images/ucsan.png" alt="UC San Diego" class="course-logo">
             <div class="course-meta">
                 <div class="course-date">June 2020</div>
                 <h3>Algorithmic Toolbox</h3>
@@ -518,7 +518,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
  <div class="course-card">
         <div class="course-header">
-            <img src="/assets/images/microicon.png" alt="Microsoft" class="course-logo">
+            <img src="/mw/assets/images/microicon.png" alt="Microsoft" class="course-logo">
             <div class="course-meta">
                 <div class="course-date">July 2020</div>
                 <h3>Engineering Virtual Internship</h3>
@@ -530,7 +530,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
  <div class="course-card">
         <div class="course-header">
-            <img src="/assets/images/React-logo.png" alt="React" class="course-logo">
+            <img src="/mw/assets/images/React-logo.png" alt="React" class="course-logo">
             <div class="course-meta">
                 <div class="course-date">June 2020</div>
                 <h3>React Native The Practical Guide</h3>
@@ -542,7 +542,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
  <div class="course-card">
         <div class="course-header">
-            <img src="/assets/images/coursera-logo-square.png" alt="Coursera" class="course-logo">
+            <img src="/mw/assets/images/coursera-logo-square.png" alt="Coursera" class="course-logo">
             <div class="course-meta">
                 <div class="course-date">July 2019</div>
                 <h3>Machine Learning by Andrew Ng</h3>
@@ -572,7 +572,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
            align-items: center;
            justify-content: center;
       ">
-        <img src="/assets/images/UCIR.jpg" alt="UC Irvine" style="
+        <img src="/mw/assets/images/UCIR.jpg" alt="UC Irvine" style="
              width: 120px;
              height: 120px;
              object-fit: contain;
@@ -622,7 +622,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
            align-items: center;
            justify-content: center;
       ">
-        <img src="/assets/images/ucsan.png" alt="UC SAN Diego" style="
+        <img src="/mw/assets/images/ucsan.png" alt="UC SAN Diego" style="
              width: 120px;
              height: 120px;
              object-fit: contain;
@@ -671,7 +671,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
            align-items: center;
            justify-content: center;
       ">
-        <img src="/assets/images/INTEL.jpeg" alt="React" style="
+        <img src="/mw/assets/images/INTEL.jpeg" alt="React" style="
              width: 120px;
              height: 120px;
              object-fit: contain;
