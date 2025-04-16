@@ -2,7 +2,7 @@
 # title: "Health Care Assistant"
 layout: post
 date: 2021-05-30 12:10
-image: https://ayushchoudhary-dev.github.io/mw/assets/images/HCA.jpg
+image: https://ayushchoudhary-dev.github.io/mw/assets/images/HCA.png
 headerImage: true
 projects: true
 tag:
@@ -56,7 +56,7 @@ The goal was always to make health management less stressful. The app provides c
 <br>
 <img src="https://ayushchoudhary-dev.github.io/mw/assets/images/dispre.jpg" alt="dispre">
 <br>
-<img src="https://ayushchoudhary-dev.github.io/mw/assets/images/LandingPage.jpg" alt="LandingPage">
+<img src="https://ayushchoudhary-dev.github.io/mw/assets/images/chatbotinterface.jpg" alt="chatbotinterface">
 
 <br>
 
