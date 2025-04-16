@@ -1,7 +1,9 @@
 ---
 title: "Credit Scoring "
 layout: post
-date: 2023-09-01 12:10
+date: 2023-09-01 12:10:00
+start_date: 2023-09-01 12:10:00
+end_date: 2024-04-30 18:00:00
 image: https://ayushchoudhary-dev.github.io/mw/assets/images/ProjectCS.jpg
 headerImage: true
 tag:

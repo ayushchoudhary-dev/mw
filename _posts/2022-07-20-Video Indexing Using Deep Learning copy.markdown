@@ -2,6 +2,9 @@
 # title: "Video Indexing Using Deep Learning"
 layout: post
 date: 2022-07-20 12:10
+
+start_date: 2022-02-10 12:00:00
+end_date: 2022-07-21 12:00:00
 image: https://ayushchoudhary-dev.github.io/mw/assets/images/v1.jpg
 headerImage: true
 projects: true

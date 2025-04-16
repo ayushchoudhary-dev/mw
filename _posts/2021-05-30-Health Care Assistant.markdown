@@ -1,7 +1,10 @@
 ---
 # title: "Health Care Assistant"
 layout: post
-date: 2021-05-30 12:10
+
+date: 2021-01-01 12:00:00
+start_date: 2021-01-10 12:00:00
+end_date: 2021-05-15 12:00:00
 image: https://ayushchoudhary-dev.github.io/mw/assets/images/HCA.png
 headerImage: true
 projects: true
