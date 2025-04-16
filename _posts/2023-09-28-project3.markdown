@@ -2,7 +2,7 @@
 title: "Credit Scoring "
 layout: post
 date: 2023-09-01 12:10
-image: /assets/images/ProjectCS.jpg
+image: https://ayushchoudhary-dev.github.io/mw/assets/images/ProjectCS.jpg
 headerImage: true
 tag:
 - Credit Scoring
@@ -37,7 +37,7 @@ number: "5. "
 <p>The model achieved a ROC-AUC score of 0.89, demonstrating strong classification performance across credit score categories.</p>
 <p>Precision-Recall AUC helped improve detection of underrepresented classes, and the optimized F1 score ensured balanced accuracy for Good, Standard, and Poor credit profiles.</p>
 
-<img src="/assets/images/training-results.png" alt="Training Accuracy, Loss, and Confusion Matrices" style="width:100%; max-width:900px;">
+<img src="https://ayushchoudhary-dev.github.io/mw/assets/images/training-results.png" alt="Training Accuracy, Loss, and Confusion Matrices" style="width:100%; max-width:900px;">
 
 <p>The training graphs show a consistent decrease in loss and a steady rise in accuracy across 200+ epochs, indicating effective model learning without overfitting. Validation metrics closely follow training trends, reflecting good generalization.</p>
 
