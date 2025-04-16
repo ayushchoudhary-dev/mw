@@ -65,11 +65,11 @@ The goal was always to make health management less stressful. The app provides c
 
 <h3> Peek Under the Hood & Future Steps!</h3>
 <p>
-Curious about the code structure? You can explore the project files here [Health_CA](https://github.com/srz0tfr/Health_CA) Key takeaways from building this were learning how to integrate ML models into a web app and managing user data securely with <code>Firebase</code>. Future ideas include expanding the chatbot's knowledge, improving the ML prediction models with more data, and potentially creating a dedicated mobile app version using <strong><code>React Native</code></strong> for an even better on-the-go experience!
+Curious about the code structure? You can explore the project files here github below. Key takeaways from building this were learning how to integrate ML models into a web app and managing user data securely with <code>Firebase</code>. Future ideas include expanding the chatbot's knowledge, improving the ML prediction models with more data, and potentially creating a dedicated mobile app version using <strong><code>React Native</code></strong> for an even better on-the-go experience!
 </p>
 
 <p><strong>Key Technologies Used:</strong> <code>React</code>, <code>Python</code>, <code>Flask</code>, <code>Firebase</code>, <code>Scikit-learn</code>, <code>NLTK</code>, <code>Keras</code>, <code>Google Maps API</code>.</p>
-Want to see the nitty-gritty? Check out the code on
+Want to see the nitty-gritty? Check out the code on [Health_CA](https://github.com/srz0tfr/Health_CA)
 
 <hr class="rounded">
 
