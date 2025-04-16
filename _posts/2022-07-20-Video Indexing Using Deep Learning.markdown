@@ -2,7 +2,7 @@
 # title: "Video Indexing Using Deep Learning"
 layout: post
 date: 2022-07-20 12:10
-image: /assets/images/v1.jpg
+image: /mw/assets/images/v1.jpg
 headerImage: true
 projects: true
 tag:
@@ -26,13 +26,13 @@ Attempt 1: Just Ask OCR (Tesseract): Using standard Optical Character Recognitio
 
 
 <br>
-<img src="/assets/images/fig7tessline.png" alt="fig7tessline">
+<img src="/mw/assets/images/fig7tessline.png" alt="fig7tessline">
 <br>
-<img src="/assets/images/fig11segmentation" alt="fig11segmentation">
+<img src="/mw/assets/images/fig11segmentation" alt="fig11segmentation">
 <br>
 Attempt 2: Use Deep Learning Vision (Deeplab-v3+): This involved training a model to "see" the layout of the slide and identify the area where the title usually sits (called Page Segmentation). Pretty cool, but sometimes the predicted area wasn't precise enough for clean text extraction.
 </p>
-![Workflow Diagram](/assets/images/WorkflowDiagram.jpg)
+![Workflow Diagram](/mw/assets/images/WorkflowDiagram.jpg)
 
 <h3>My Solution: The "Best-of-Both-Worlds" Hybrid Method</h3>
 
@@ -42,7 +42,7 @@ Attempt 2: Use Deep Learning Vision (Deeplab-v3+): This involved training a mode
 1.Let Tesseract do what it's good at: find all the text lines with accurate bounding boxes
 <br>
 2.Then, use the Deep Learning segmentation map (which knows the likely location of the title) to intelligently select which of Tesseract's boxes actually belong to the title. This fusion approach proved much better at handling tricky layouts and multi-line titles.
-<img src="/assets/images/fig15.png" alt="fig15">
+<img src="/mw/assets/images/fig15.png" alt="fig15">
 <br>
 Key Tech Used: Python, Deep Learning (Deeplab-v3+), Tesseract OCR
 </p>
