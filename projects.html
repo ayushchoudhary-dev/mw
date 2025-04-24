@@ -4,8 +4,11 @@ title: Projects
 ---
 
 <p style="text-align: right; margin-bottom: 1rem;">
-  <a href="/about/#work-experience" class="btn">Let's go to my Work Experience →</a>
+  <a href="{{ "/about/#work-experience" | absolute_url }}" class="btn">
+    Jump to Work Experience →
+  </a>
 </p>
+
 <section class="list">
   {% for post in site.posts %}
     {% if post.projects %}
