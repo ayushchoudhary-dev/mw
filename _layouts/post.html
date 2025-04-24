@@ -9,17 +9,22 @@ layout: page
 <h1 class="title">{{ page.title }}</h1>
 
 <span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
+    <time datetime="{{ page.date | date: "%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
-{% if page.start_date and page.end_date %}
-  <p class="project-duration"> 
-    <strong>Project Duration:</strong> 
-    <time datetime="{{ page.start_date | date_to_xmlschema }}">{{ page.start_date | date: "%B %-d, %Y" }}</time> 
-    to 
-    <time datetime="{{ page.end_date | date_to_xmlschema }}">{{ page.end_date | date: "%B %-d, %Y" }}</time>
+
+{% if page.start_date %}
+<p class="project-duration">
+    <strong>Project Duration:</strong>
+    {{ page.start_date | date: "%B %Y" }}
+    {% if page.end_date_display %}
+      to {{ page.end_date_display }}
+    {% elsif page.end_date %}
+      to {{ page.end_date | date: "%B %Y" }}
+    {% endif %}
   </p>
 {% endif %}
+
 
 {% if site.show-tags %}
     <div class="post-tags">

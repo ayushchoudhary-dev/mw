@@ -347,7 +347,8 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 
 <div class="section-divider"></div>
 
-<h1>Work Experience</h1>
+<!-- <h1>Work Experience</h1> -->
+<h1 id="work-experience">Work Experience</h1>
 
 
 

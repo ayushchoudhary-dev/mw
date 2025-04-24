@@ -2,27 +2,38 @@
 layout: page
 title: Projects
 ---
+
+<p style="text-align: right; margin-bottom: 1rem;">
+  <a href="/about/#work-experience" class="btn">Let's go to my Work Experience →</a>
+</p>
 <section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-
-                    <aside style="white-space: nowrap;"> 
-                        {% if post.start_date %}
-                          <time datetime="{{ post.start_date | date_to_xmlschema }}">{{ post.start_date | date: "%b %d %Y" }}</time>
-                          {% if post.end_date %}
-                             to <time datetime="{{ post.end_date | date_to_xmlschema }}">{{ post.end_date | date: "%b %d %Y" }}</time>
-                          {% endif %}
-                        {% else %}
-                          <time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time> 
-                        {% endif %}
-                      </aside>
-
-                    <!-- <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside> -->
-                    <h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
+  {% for post in site.posts %}
+    {% if post.projects %}
+      <div class="item {% if post.star %}star{% endif %}">
+        <a class="url"
+           href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+          <aside style="white-space: nowrap;">
+            {% if post.start_date %}
+              <time datetime="{{ post.start_date | date_to_xmlschema }}">
+                {{ post.start_date | date: "%b %Y" }}
+              </time>
+              {% if post.end_date_display %}
+                to {{ post.end_date_display }}
+              {% elsif post.end_date %}
+                to 
+                <time datetime="{{ post.end_date | date_to_xmlschema }}">
+                  {{ post.end_date | date: "%b %Y" }}
+                </time>
+              {% endif %}
+            {% else %}
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%b %Y" }}
+              </time>
+            {% endif %}
+          </aside>
+          <h3 class="title">{{ post.title }}</h3>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
 </section>
