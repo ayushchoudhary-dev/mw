@@ -376,7 +376,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Devine Soul Foundation</h3>
         <p><strong>Software Developer</strong></p>
-        <p class="education-meta">June 2022 - August 2023</p>
+        <p class="education-meta">May 2022 - August 2023</p>
         <p>Built React-Redux dashboards, optimized UPI with Redis, engineered MongoDB APIs.</p>
     </div>
 </div>
