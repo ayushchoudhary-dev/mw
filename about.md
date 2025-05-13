@@ -380,6 +380,15 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
         <p>Built React-Redux dashboards, optimized UPI with Redis, engineered MongoDB APIs.</p>
     </div>
 </div>
+<div class="experience-card">
+    <img class="company-logo" src="/mw/assets/images/VITlogo.png" alt="VIT Logo">
+    <div class="experience-content">
+        <h3>Vellore Institute of Technology</h3>
+        <p><strong>Reseach Assistant</strong></p>
+        <p class="education-meta">May 2021 - April 2022</p>
+        <p>Stacked RBM-MLP + SMOTE achieved 94.53% heart disease prediction, Integrated LGBM+XGB ensemble achieved 91.42% recall and 94.37% F1.</p>
+    </div>
+</div>
 
 
 <div class="section-divider dots"></div>
