@@ -358,7 +358,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
         <h3>Arizona State University</h3>
         <p><strong>Graduate Service Assistant </strong></p>
         <p class="education-meta">September 2024 - Present</p>
-        <p>Built Flask-React app with gaze detection and WebSockets; engineered RAG system with FAISS, Redis; mentored 255+ students in C++.</p>
+        <p>Built screentime app with gaze detection and WebSockets; engineered RAG system ; mentored 255+ students in C++.</p>
     </div>
 </div>
 <div class="experience-card">
@@ -377,7 +377,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
         <h3>Devine Soul Foundation</h3>
         <p><strong>Software Developer</strong></p>
         <p class="education-meta">May 2022 - August 2023</p>
-        <p>Built React-Redux dashboards, optimized UPI with Redis, engineered MongoDB APIs.</p>
+        <p>Built dashboards, optimized UPI , wrote test suites.</p>
     </div>
 </div>
 <div class="experience-card">
