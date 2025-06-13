@@ -2,13 +2,13 @@
 title: "Mobile Risk Monitoring App"
 layout: post
 start_date: 2025-01-01  # Keep full date (required for date parsing)
-end_date_display: Present  # For ongoing projects
+end_date_display: 2025-05-01  # For ongoing projects
 
 # 12:10:00
 # start_date: 2023-09-01 12:10:00
 # end_date: 2024-05-10
 # OR if still ongoing
-end_date_display: Present
+end_date_display: 2025-05-01
 image: https://ayushchoudhary-dev.github.io/mw/assets/images/APPmonitor.png
 headerImage: true
 tag:
