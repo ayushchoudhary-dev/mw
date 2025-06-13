@@ -358,7 +358,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
         <h3>Arizona State University</h3>
         <p><strong>Graduate Service Assistant </strong></p>
         <p class="education-meta">September 2024 - Present</p>
-        <p>Built screentime app with gaze detection and WebSockets; engineered RAG system ; mentored 255+ students in C++.</p>
+        <p>Built realtime systems; Engineered RAG system ; Mentored 255+ students in Problem solving.</p>
     </div>
 </div>
 <div class="experience-card">
@@ -376,8 +376,8 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Devine Soul Foundation</h3>
         <p><strong>Software Developer</strong></p>
-        <p class="education-meta">May 2022 - August 2023</p>
-        <p>Built dashboards, optimized UPI , wrote test suites.</p>
+        <p class="education-meta">January 2022 - August 2023</p>
+        <p>Built dashboards, optimized Security and Payments , Wrote test suites, Worked on syncing data.</p>
     </div>
 </div>
 <div class="experience-card">
@@ -385,7 +385,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Vellore Institute of Technology</h3>
         <p><strong>Reseach Assistant</strong></p>
-        <p class="education-meta">May 2021 - April 2022</p>
+        <p class="education-meta">May 2021 - December 2021</p>
         <p>Stacked RBM-MLP + SMOTE achieved 94.53% heart disease prediction, Integrated LGBM+XGB ensemble achieved 91.42% recall and 94.37% F1.</p>
     </div>
 </div>
