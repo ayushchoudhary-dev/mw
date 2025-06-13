@@ -385,7 +385,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Vellore Institute of Technology</h3>
         <p><strong>Reseach Assistant</strong></p>
-        <p class="education-meta">May 2021 - December 2021</p>
+        <p class="education-meta">April 2021 - December 2021</p>
         <p>Stacked RBM-MLP + SMOTE achieved 94.53% heart disease prediction, Integrated LGBM+XGB ensemble achieved 91.42% recall and 94.37% F1.</p>
     </div>
 </div>
