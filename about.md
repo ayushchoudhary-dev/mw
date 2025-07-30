@@ -357,7 +357,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Arizona State University</h3>
         <p><strong>Graduate Service Assistant </strong></p>
-        <p class="education-meta">September 2024 - Present</p>
+        <p class="education-meta">September 2024 - May 2025</p>
         <p>Built realtime systems; Engineered RAG system ; Mentored 255+ students in Problem solving.</p>
     </div>
 </div>
