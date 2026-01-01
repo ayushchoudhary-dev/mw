@@ -374,9 +374,9 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
 <div class="experience-card">
     <img class="company-logo" src="/mw/assets/images/DSFlogo.png" alt="Devine Soul Foundation Logo">
     <div class="experience-content">
-        <h3>Devine Soul Foundation</h3>
+        <h3>Devine Soul </h3>
         <p><strong>Software Developer</strong></p>
-        <p class="education-meta">January 2022 - August 2023</p>
+        <p class="education-meta">June 2021 - August 2023</p>
         <p>Built dashboards, optimized Security and Payments , Wrote test suites, Worked on syncing data.</p>
     </div>
 </div>
@@ -385,7 +385,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <div class="experience-content">
         <h3>Vellore Institute of Technology</h3>
         <p><strong>Reseach Assistant</strong></p>
-        <p class="education-meta">April 2021 - December 2021</p>
+        <p class="education-meta">January 2021 - May 2021</p>
         <p>Stacked RBM-MLP + SMOTE achieved 94.53% heart disease prediction, Integrated LGBM+XGB ensemble achieved 91.42% recall and 94.37% F1.</p>
     </div>
 </div>
