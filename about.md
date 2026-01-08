@@ -356,12 +356,12 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
     <img class="company-logo" src="/mw/assets/images/ASUlogo.jpg" alt="ASU logo">
     <div class="experience-content">
         <h3>Arizona State University</h3>
-        <p><strong>Graduate Service Assistant </strong></p>
+        <p><strong>Software Engineer </strong></p>
         <p class="education-meta">September 2024 - May 2025</p>
-        <p>Built realtime systems; Engineered RAG system ; Mentored 255+ students in Problem solving.</p>
+        <p>Built realtime systems; Engineered RAG system.</p>
     </div>
 </div>
-<div class="experience-card">
+<!-- <div class="experience-card">
     <img class="company-logo" src="/mw/assets/images/ASUlogo.jpg" alt="ASU logo">
     <div class="experience-content">
         <h3>Arizona State University</h3>
@@ -369,7 +369,7 @@ I've recently embarked on a fitness journey, recognizing that a healthy body and
         <p class="education-meta">June 2024 - September 2024</p>
         <p>Verified student records and documents, ensuring accurate and timely admissions processing.</p>
     </div>
-</div>
+</div> -->
 
 <div class="experience-card">
     <img class="company-logo" src="/mw/assets/images/DSFlogo.png" alt="Devine Soul Foundation Logo">
